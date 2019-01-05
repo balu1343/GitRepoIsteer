@@ -1,0 +1,1 @@
+hi Git this is my first git file after Readme.txt
